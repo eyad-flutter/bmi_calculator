@@ -1,17 +1,19 @@
-# bmi_calc
+# Premium Neon BMI Calculator 🚀
 
-A new Flutter project.
+A sleek, beautiful, and highly interactive **BMI (Body Mass Index) Calculator** built using **Flutter**. Designed with a modern dark-neon aesthetic and focus on exceptional user experience (UX).
 
-## Getting Started
+## ✨ Features
+* **Modern Dark/Neon UI:** Eye-catching design utilizing custom gradients and glowing container aesthetics.
+* **Interactive Sliders & Selectors:** Smooth height adjustments and user-friendly weight/age counters.
+* **Smart Calculation Logic:** Instant and accurate BMI calculation according to standard health metrics.
+* **Adaptive Result Screen:** Displays dynamic health advice and classifications based on the user's BMI score.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack & Concepts
+* **Framework:** Flutter (Dart)
+* **State Management:** Clean state handling for interactive UI elements.
+* **Responsive Design:** Optimized layout that scales beautifully across various screen sizes.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+<p align="center">
+  <img src="screenshots/app_ui.png" width="350" alt="BMI Calculator Neon UI">
+</p>
